@@ -118,25 +118,6 @@ Example use case:
 </Card>
 ```
 
-## Getting Started
-
-1. Clone the repository:
-```bash
-git clone https://github.com/anarbabashov/react-patterns.git
-```
-
-2. Install dependencies:
-```bash
-cd react-patterns
-npm install
-```
-
-3. Explore the patterns in their respective directories.
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
